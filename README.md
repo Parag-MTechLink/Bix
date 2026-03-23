@@ -58,7 +58,7 @@ git checkout -b <branch-name>
 Example:
 
 ```bash
-git checkout -b feature-login-page
+git checkout -b feature/login-page
 ```
 
 ---
