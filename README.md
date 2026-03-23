@@ -96,10 +96,10 @@ git push -u origin <branch-name>
 ## Example Full Flow
 
 ```bash
-git checkout -b feature-dashboard
+git checkout -b feature/dashboard
 git add .
 git commit -m "Add dashboard UI"
-git push -u origin feature-dashboard
+git push -u origin feature/dashboard
 ```
 
 ---
